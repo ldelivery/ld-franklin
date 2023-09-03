@@ -1,2 +1,9 @@
 mountpoints:
   /: https://drive.google.com/drive/folders/1UG-mN9TS8tFG2LyjUFbOiUdaMVV6E5UU
+  /adobe: https://adobe.sharepoint.com/sites/TheBlog/Shared%20Documents/theblog
+  /dev: https://drive.google.com/drive/folders/1UXWRAkqybX3qgm1WkzjcV6jNZF8jpb2X
+  /foo: https://localhost:4502
+folders:
+  /products: /generic-products.md
+  /articles/: /special/default-article
+  /app: /spa/index.html
